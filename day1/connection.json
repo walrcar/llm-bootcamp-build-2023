@@ -7,5 +7,5 @@
   "database"  : "DB_USER####",
   "schema"    : "SCHEMA_LLM",
   "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "huggingface_token": "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"
 }
